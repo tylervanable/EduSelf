@@ -5,18 +5,18 @@ My goal is to create engaging classes! Hopefully some that you've never heard of
 1. (current) ENGL 100 - "Workplace Writing and Communications", 12 weeks.
 2. (next) HIST 160 - "Black American History", 12 weeks
 3. (future) MATH 121 - "Applied Calculus I", 12 weeks
-4. (future) HIST 161 - "American History from Reconstruction to World War II"
-6. (future) MUS 122 - "Topics in Classical Music"
-7. (future) MUS 123 - "Topics in Jazz"
-8. (future) MUS 124 - "Topics in Rock n' Roll"
-9. (future) MUS 220 - "Music as a Global Culture
-10. (future) MUS 222 - "History of Classical Music"
-11. (future) MUS 223 - "History of Early Jazz: 1900-1951"
-12. (future) MUS 224 - "History of Rock n' Roll"
-13. (future) HIST 162 - "American History to the Civil War"
-14. (future) HIST 163 - "Contemporary Issues in American History"
-15. (future) ENGL 075 - "Pre-college Writing and Communications"
-16. (future) ENGL 160 - "Introduction to Linguistics" 
+4. (future) MUS 122 - "Topics in Classical Music"
+5. (future) MUS 123 - "Topics in Jazz"
+6. (future) MUS 124 - "Topics in Rock n' Roll"
+7. (future) MUS 220 - "Music as a Global Culture
+8. (future) MUS 222 - "History of Classical Music"
+9. (future) MUS 223 - "History of Early Jazz: 1900-1951"
+10. (future) MUS 224 - "History of Rock n' Roll"
+11. (future) HIST 161 - "American History from Reconstruction to World War II"
+12. (future) HIST 162 - "American History to the Civil War"
+13. (future) HIST 163 - "Contemporary Issues in American History"
+14. (future) ENGL 075 - "Pre-college Writing and Communications"
+15. (future) ENGL 160 - "Introduction to Linguistics" 
 
 
 Course Number Guide:
