@@ -12,11 +12,12 @@ My goal is to create engaging classes! Hopefully some that you've never heard of
 8. (future) MUS 222 - "History of Classical Music"
 9. (future) MUS 223 - "History of Early Jazz: 1900-1951"
 10. (future) MUS 224 - "History of Rock n' Roll"
-11. (future) HIST 161 - "American History from Reconstruction to World War II"
-12. (future) HIST 162 - "American History to the Civil War"
+11. (future) HIST 161 - "Early American History to the Civil War"
+12. (future) HIST 162 - "American History from Reconstruction to World War II"
 13. (future) HIST 163 - "Contemporary Issues in American History"
 14. (future) ENGL 075 - "Pre-college Writing and Communications"
-15. (future) ENGL 160 - "Introduction to Linguistics" 
+15. (future) ENGL 098 - "Dystopian Young Adult Literature"
+16. (future) ENGL 160 - "Introduction to Linguistics" 
 
 
 Course Number Guide:
