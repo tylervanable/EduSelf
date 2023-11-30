@@ -7,51 +7,59 @@ My goal is to create engaging classes! Hopefully some that you've never heard of
 3. (soon) HIST 160 - "Black American History", 12 weeks
 
 MUSIC [MUS] COURSES:
-(future) MUS 025 - "Foundations in Music Notation"
-(future) MUS 100 - "Introduction to Music"
-(future) MUS 112 - "Topics in Classical Music"
-(future) MUS 113 - "Topics in Jazz"
-(future) MUS 114 - "Topics in Rock n' Roll"
-(future) MUS 120 - "Basics in Musical Notation"
-(future) MUS 220 - "Music as a Global Culture
-(future) MUS 222 - "History of Classical Music"
-(future) MUS 223 - "History of Early Jazz: 1900-1951"
-(future) MUS 224 - "History of Rock n' Roll" (future)
-(future) MUS 322 - "American Genre & Identity"
-(future) MUS 323 - "History of Late Jazz: 1952-2023"
+1. (future) MUS 025 - "Foundations in Music Notation"
+2. (future) MUS 100 - "Introduction to Music"
+3. (future) MUS 112 - "Topics in Classical Music"
+4. (future) MUS 113 - "Topics in Jazz"
+5. (future) MUS 114 - "Topics in Rock n' Roll"
+6. (future) MUS 120 - "Basics in Musical Notation"
+7. (future) MUS 220 - "Music as a Global Culture
+8. (future) MUS 222 - "History of Classical Music"
+9. (future) MUS 223 - "History of Early Jazz: 1900-1951"
+10. (future) MUS 224 - "History of Rock n' Roll" (future)
+11. (future) MUS 322 - "American Genre & Identity"
+12. (future) MUS 323 - "History of Late Jazz: 1952-2023"
 
 VIDEO GAME MUSIC & ART [VGMU & VGAR] COURSES:
-(future) VGMU 200 - "Introduction to Video Game Music Composition"
-(future) VGAR 200 - "Introduction to Pixel Art Techniques"
-(future) VGAR 205 - "Introduction to 8-bit Pixel Art Imagery"
-(future) VGAR 206 - "Introduction to 16-bit Pixel Art Imagery"
-(future) VGAR 275 - "Topics in Pixel Art: Nature
-(future) VGAR 276 - "Topics in Pixel Art: Crops"
-(future) VGAR 277 - "Topics in Pixel Art: Furniture"
-(future) VGAR 278 - "Topics in Pixel Art: Landscape"
-(future) VGAR 376 - "Topics in Pixel Art: Animals"
-(future) VGAR 377 - "Topics in Pixel Art: Home Interiors"
-(future) VGAR 378 - "Topics in Pixel Art: Home Exteriors"
-(future) VGAR 410 - "Video Game Character Portraits"
+1. (future) VGMU 200 - "Introduction to Video Game Music Composition"
+2. (future) VGAR 200 - "Introduction to Pixel Art Techniques"
+3. (future) VGAR 205 - "Introduction to 8-bit Pixel Art Imagery"
+4. (future) VGAR 206 - "Introduction to 16-bit Pixel Art Imagery"
+5. (future) VGAR 275 - "Topics in Pixel Art: Nature
+6. (future) VGAR 276 - "Topics in Pixel Art: Crops"
+7. (future) VGAR 277 - "Topics in Pixel Art: Furniture"
+8. (future) VGAR 278 - "Topics in Pixel Art: Landscape"
+9. (future) VGAR 376 - "Topics in Pixel Art: Animals"
+10. (future) VGAR 377 - "Topics in Pixel Art: Home Interiors"
+11. (future) VGAR 378 - "Topics in Pixel Art: Home Exteriors"
+12. (future) VGAR 410 - "Video Game Character Portraits"
 
 HISTORY [HIST] COURSES:
-(future) HIST 140 - "Ancient World History to the Late Middle Ages"
-(future) HIST 141 - "World History from the Late Middle Ages to Modernization"
-(future) HIST 142 - "Contemporary Issues in American History: World War I to Present Day"
-(soon!) HIST 160 - "Black American History from 1619 to Present Day"
-(future) HIST 161 - "Early American History to the Civil War"
-(future) HIST 162 - "American History from Reconstruction to World War II"
-(future) HIST 163 - "Contemporary Issues in American History: Vietnam War to Present Day"
+1. (future) HIST 140 - "Ancient World History to the Late Middle Ages"
+2. (future) HIST 141 - "World History from the Late Middle Ages to Modernization"
+3. (future) HIST 142 - "Contemporary Issues in American History: World War I to Present Day"
+4. (soon!) HIST 160 - "Black American History from 1619 to Present Day"
+5. (future) HIST 161 - "Early American History to the Civil War"
+6. (future) HIST 162 - "American History from Reconstruction to World War II"
+7. (future) HIST 163 - "Contemporary Issues in American History: Vietnam War to Present Day"
+8. (future) HIST 220 - "Ancient Asian History to the Medieval Ages"
+9. (future) HIST 221 - "Early Modern Asian History to Colonial Asia"
+10. (future) HIST 222 - "Issues in Modern and Contemporary Asian History"
+11. (future) HIST 230 - "Ancient African History to Medieval History"
+12. (future) HIST 231 - "African History: Colonialism to Independence"
+13. (future) HIST 232 - "Issues in Post-Independence and Contemporary African History"
+14. (future) HIST 364 - "Indigenous Civil Rights in the United States"
+15. (future) HIST 366 - "History of Financial Crises and Civic Reactions (1700s–present)"
 
 ENGLISH [ENGL] COURSES:
-(future) ENGL 025 - "Elementary Writing"
-(future) ENGL 045 - "Introduction to Debate"
-(future) ENGL 050 - "Enhanced Writing Techniques"
-(future) ENGL 065 - "Introduction to Public Speaking"
-(future) ENGL 078 - "Pre-college Writing and Communications"
-(future) ENGL 097 - "Young Adult Fantasy Literature" 
-(future) ENGL 098 - "Young Adult Dystopian Literature"
-(future) ENGL 160 - "Introduction to Linguistics" 
+1. (future) ENGL 025 - "Elementary Writing"
+2. (future) ENGL 045 - "Introduction to Debate"
+3. (future) ENGL 050 - "Enhanced Writing Techniques"
+4. (future) ENGL 065 - "Introduction to Public Speaking"
+5. (future) ENGL 078 - "Pre-college Writing and Communications"
+6. (future) ENGL 097 - "Young Adult Fantasy Literature"
+7. (future) ENGL 098 - "Young Adult Dystopian Literature"
+8. (future) ENGL 160 - "Introduction to Linguistics" 
 
 Course Number Guide:
 1. 000-049 - ELEMENTARY & MIDDLE SCHOOL LEVEL
