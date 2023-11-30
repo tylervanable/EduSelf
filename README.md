@@ -11,13 +11,25 @@ My goal is to create engaging classes! Hopefully some that you've never heard of
 7. (future) MUS 220 - "Music as a Global Culture
 8. (future) MUS 222 - "History of Classical Music"
 9. (future) MUS 223 - "History of Early Jazz: 1900-1951"
-10. (future) MUS 224 - "History of Rock n' Roll"
-11. (future) HIST 161 - "Early American History to the Civil War"
-12. (future) HIST 162 - "American History from Reconstruction to World War II"
-13. (future) HIST 163 - "Contemporary Issues in American History"
-14. (future) ENGL 075 - "Pre-college Writing and Communications"
-15. (future) ENGL 098 - "Dystopian Young Adult Literature"
-16. (future) ENGL 160 - "Introduction to Linguistics" 
+10. (future) VGMU 200 - "Introduction to Video Game Music Composition"
+11. (future) VGAR 200 - "Introduction to Pixel Art Techniques"
+12. (future) VGAR 205 - "Introduction to 8-bit Pixel Art Imagery"
+13. (future) VGAR 206 - "Introduction to 16-bit Pixel Art Imagery"
+14. (future) VGAR 275 - "Topics in Pixel Art: Nature
+15. (future) VGAR 276 - "Topics in Pixel Art: Crops"
+16. (future) VGAR 277 - "Topics in Pixel Art: Furniture"
+17. (future) VGAR 278 - "Topics in Pixel Art: Landscape"
+18. (future) VGAR 376 - "Topics in Pixel Art: Animals"
+19. (future) VGAR 377 - "Topics in Pixel Art: Home Interiors"
+20. (future) VGAR 378 - "Topics in Pixel Art: Home Exteriors"
+21. (future) VGAR 410 - "Video Game Character Portraits"
+22. (future) MUS 224 - "History of Rock n' Roll"
+23. (future) HIST 161 - "Early American History to the Civil War"
+24. (future) HIST 162 - "American History from Reconstruction to World War II"
+25. (future) HIST 163 - "Contemporary Issues in American History"
+26. (future) ENGL 075 - "Pre-college Writing and Communications"
+27. (future) ENGL 098 - "Dystopian Young Adult Literature"
+28. (future) ENGL 160 - "Introduction to Linguistics" 
 
 
 Course Number Guide:
