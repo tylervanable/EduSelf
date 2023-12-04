@@ -4,7 +4,7 @@ A public access curriculum database project I've been thinking about developing!
 My goal is to create engaging classes! Hopefully some that you've never heard of before! Explore classes you loved taking, those you never took, and a wide range of courses for students in the 21st century. Check out planned courses below:
 1. (current) ENGL 100 - "Workplace Writing and Communications", 12 weeks.
 2. (next) MATH 121 - "Applied Calculus I", 12 weeks
-3. (soon) HIST 160 - "Black American History", 12 weeks
+3. (soon) HIST 165 - "Black American History", 12 weeks
 
 MUSIC [MUS] COURSES:
 1. (future) MUS 025 - "Foundations in Music Notation"
@@ -20,8 +20,8 @@ MUSIC [MUS] COURSES:
 11. (future) MUS 223 - "History of Early Jazz: 1900-1951"
 12. (future) MUS 224 - "History of Rock n' Roll: 50's through the 70's"
 13. (future) MUS 225 - "History of Hip-Hop in Black American Culture"
-14. (future) MUS 230 - "Introduction to Music Therapy"
-15. (future) MUS 235 - "Introduction to Music Education"
+14. (future) MUS 250 - "Introduction to Music Therapy"
+15. (future) MUS 255 - "Introduction to Music Education"
 16. (future) MUS 321 - "Music as a Form of Social Protest"
 17. (future) MUS 322 - "American Genre & Identity"
 18. (future) MUS 323 - "Evolution of Late Jazz: 1952 to the Present"
@@ -35,14 +35,28 @@ MUSIC [MUS] COURSES:
 26. (future) MUS 407 - "The Symphony"
 27. (future) MUS 408 - "The Opera"
 28. (future) MUS 409 - "The Theatre"
-29. (future) MUS 422 -
-30. (future) MUS 430 - "Music, Mind, and Body"
+29. (future) MUS 421 - "Liturgical Chant and the Medieval Ages"
+30. (future) MUS 422 - "The Renaissance"
+31. (future) MUS 423 - "The Baroque Era"
+32. (future) MUS 424 - "The Classical Era"
+33. (future) MUS 425 - "The Romantic Era"
+34. (future) MUS 426 - "The Contemporary Era"
+35. (future) MUS 428 - "The Origins of Jazz: New Orleans and Chicago"
+36. (future) MUS 429 - "Swing & Big Band Era"
+37. (future) MUS 433 - "Bebop Era"
+38. (future) MUS 434 - "Cool Jazz"
+39. (future) MUS 435 - "Hard Bop"
+40. (future) MUS 436 - "Avant Garde and Free Jazz"
+41. (future) MUS 437 - "Fusion and Jazz Rock"
+42. (future) MUS 438 - "Eclecticism Era in Jazz"
+43. (future) MUS 439 - "Modern Era Jazz" 
+44. (future) MUS 450 - "Music, Mind, and Body"
 
 HISTORY [HIST] COURSES:
 1. (future) HIST 150 - "Ancient World History to the Islamic Golden Age
 2. (future) HIST 151 - "World History from the Mongols to Modernization"
 3. (future) HIST 152 - "Contemporary Issues in American History: World War I to Present Day"
-4. (soon!) HIST 160 - "Black American History from 1619 to Present Day"
+4. (future) HIST 160 - "Pre-Columbian Native American History"
 5. (future) HIST 161 - "Early American History to the Civil War"
 6. (future) HIST 162 - "American History from Reconstruction to World War II"
 7. (future) HIST 163 - "Contemporary Issues in American History: Vietnam War to Present Day"
@@ -139,7 +153,7 @@ VIDEO GAME MUSIC & ART [VGMU & VGAR] COURSES:
 17. (future) VGAR 280K - "Pixel Art Sprites: Ores, Minerals, and Caves"
 18. (future) VGAR 280L - "Pixel Art Sprites: Artifacts & Loot"
 19. (future) VGAR 280M - "Pixel Art Sprites: Season & Festival"
-20. (future) VGAR 410 - "Video Game Character Portraits"
+20. (future) VGAR 310 - "Video Game Character Portraits"
 
 Course Number Guide:
 1. 000-049 - ELEMENTARY & MIDDLE SCHOOL LEVEL
