@@ -8,17 +8,35 @@ My goal is to create engaging classes! Hopefully some that you've never heard of
 
 MUSIC [MUS] COURSES:
 1. (future) MUS 025 - "Foundations in Music Notation"
-2. (future) MUS 100 - "Introduction to Music"
-3. (future) MUS 112 - "Topics in Classical Music"
-4. (future) MUS 113 - "Topics in Jazz"
-5. (future) MUS 114 - "Topics in Rock n' Roll"
-6. (future) MUS 120 - "Basics in Musical Notation"
-7. (future) MUS 220 - "Music as a Global Culture
-8. (future) MUS 222 - "History of Classical Music"
-9. (future) MUS 223 - "History of Early Jazz: 1900-1951"
-10. (future) MUS 224 - "History of Rock n' Roll" (future)
-11. (future) MUS 322 - "American Genre & Identity"
-12. (future) MUS 323 - "History of Late Jazz: 1952-2023"
+2. (future) MUS 050 - "Reading Music Notation in an Ensemble"
+3. (future) MUS 100 - "Introduction to Music"
+4. (future) MUS 112 - "Topics in Classical Music"
+5. (future) MUS 113 - "Topics in Jazz"
+6. (future) MUS 114 - "Topics in Rock n' Roll"
+7. (future) MUS 115 - "Topics in Hip-Hop & Rap"
+8. (future) MUS 120 - "Basics in Musical Notation"
+9. (future) MUS 220 - "Music as a Global Culture"
+10. (future) MUS 222 - "History of Classical Music"
+11. (future) MUS 223 - "History of Early Jazz: 1900-1951"
+12. (future) MUS 224 - "History of Rock n' Roll: 50's through the 70's"
+13. (future) MUS 225 - "History of Hip-Hop in Black American Culture"
+14. (future) MUS 230 - "Introduction to Music Therapy"
+15. (future) MUS 235 - "Introduction to Music Education"
+16. (future) MUS 321 - "Music as a Form of Social Protest"
+17. (future) MUS 322 - "American Genre & Identity"
+18. (future) MUS 323 - "Evolution of Late Jazz: 1952-2023"
+19. (future) MUS 324 - "Evolution of the Rock Genre: 70's through the 21st Century"
+20. (future) MUS 325 - "History of Rap in Black American Culture
+21. (future) MUS 402 - "Music and Word in Popular Music"
+22. (future) MUS 403 - "Music and Word in the Western Art Music Tradition"
+23. (future) MUS 404 - "Orchestration"
+24. (future) MUS 405 - "Form and Analysis"
+25. (future) MUS 406 - "The Concerto"
+26. (future) MUS 407 - "The Symphony"
+27. (future) MUS 408 - "The Opera"
+28. (future) MUS 409 - "The Theatre"
+29. (future) MUS 422 - "
+30. (future) MUS 430 - "Music, Mind, and Body"
 
 HISTORY [HIST] COURSES:
 1. (future) HIST 150 - "Ancient World History to the Islamic Golden Age
