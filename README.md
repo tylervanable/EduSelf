@@ -21,8 +21,8 @@ MUSIC [MUS] COURSES:
 12. (future) MUS 323 - "History of Late Jazz: 1952-2023"
 
 HISTORY [HIST] COURSES:
-1. (future) HIST 150 - "Ancient World History to the Late Middle Ages"
-2. (future) HIST 151 - "World History from the Late Middle Ages to Modernization"
+1. (future) HIST 150 - "Ancient World History to the Islamic Golden Age
+2. (future) HIST 151 - "World History from the Mongols to Modernization"
 3. (future) HIST 152 - "Contemporary Issues in American History: World War I to Present Day"
 4. (soon!) HIST 160 - "Black American History from 1619 to Present Day"
 5. (future) HIST 161 - "Early American History to the Civil War"
