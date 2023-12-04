@@ -127,7 +127,7 @@ VIDEO GAME MUSIC & ART [VGMU & VGAR] COURSES:
 4. (future) VGAR 206 - "Introduction to 16-bit Pixel Art Imagery"
 5. (future) VGAR 250 - "Title Screen & Load Screen Design"
 6. (future) VGAR 280A - "Pixel Art Sprites: Nature"
-7. (future) VGAR 280B - "Pixel Art Sprites: Crops"
+7. (future) VGAR 280B - "Pixel Art Sprites: Food & Crops"
 8. (future) VGAR 280C - "Pixel Art Sprites: Tools & Weapons
 9. (future) VGAR 280D - "Pixel Art Sprites: Clothing & Accessories"
 10. (future) VGAR 280E - "Pixel Art Sprites: NPCS"
