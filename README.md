@@ -135,6 +135,14 @@ ENGLISH [ENGL] COURSES:
 55. (future) ENGL 382 - "Introduction to Shakespearean Tragedies"
 56. (future) ENGL 383 - "Introduction to Shakespearean Histories"
 
+PHILOSOPHY [PHIL] COURSES:
+1. (future) PHIL 101 - "Introduction to Philosophy"
+2. (future) PHIL 103 - "Critical Thinking
+3. (future) PHIL 125 - "The Problem of Evil"
+4. (future) PHIL 127 - "Love and Sex"
+5. (future) PHIL 200 - "Philosophical Foundations"
+6. (future) PHIL 210 - "Theories of Human Nature"
+
 VIDEO GAME MUSIC & ART [VGMU & VGAR] COURSES:
 1. (future) VGMU 200 - "Introduction to Video Game Music Composition"
 2. (future) VGAR 200 - "Introduction to Pixel Art Techniques"
