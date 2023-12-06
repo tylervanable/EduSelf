@@ -146,6 +146,7 @@ PHILOSOPHY [PHIL] COURSES:
 8. (future) PHIL 214 - "Social Philosophy"
 9. (future) PHIL 275 - "Modern Thought: Philosophy and Literature"
 10. (future) PHIL 312 - "Ethical Problems in Society and Medicine"
+11. (future) PHIL 315 - "Philosophy of Art"
 
 VIDEO GAME MUSIC & ART [VGMU & VGAR] COURSES:
 1. (future) VGMU 200 - "Introduction to Video Game Music Composition"
