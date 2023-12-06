@@ -142,6 +142,10 @@ PHILOSOPHY [PHIL] COURSES:
 4. (future) PHIL 127 - "Love and Sex"
 5. (future) PHIL 200 - "Philosophical Foundations"
 6. (future) PHIL 210 - "Theories of Human Nature"
+7. (future) PHIL 212 - "Ethics"
+8. (future) PHIL 214 - "Social Philosophy"
+9. (future) PHIL 275 - "Modern Thought: Philosophy and Literature"
+10. (future) PHIL 312 - "Ethical Problems in Society and Medicine"
 
 VIDEO GAME MUSIC & ART [VGMU & VGAR] COURSES:
 1. (future) VGMU 200 - "Introduction to Video Game Music Composition"
