@@ -1,5 +1,5 @@
 # EduSelf
-A public access curriculum database project I've been thinking about developing! Inspired by Khan Academy, EduSelf is ran as a challenge-by-choice course, meaning there are no "assignments" but those you complete to better yourself. Assignments include journals, Google/ChatGPT investigations, and essays. (As I get better with HTML, CSS, JavaScript, SQL, etc., I hope to add more dynamic assignments that can be automatically graded...!)
+A public access curriculum database project I've been thinking about developing! Inspired by Khan Academy, EduSelf is ran as a collection of challenge-by-choice courses, meaning there are no "assignments" but activities you can complete to better yourself. Activities include journals, Google/ChatGPT investigations, and essays. (As I get better with HTML, CSS, JavaScript, databases, etc., I hope to include assignments that can be automatically graded...!)
 
 My goal is to create engaging classes! Hopefully some that you've never heard of before! Explore classes you loved taking, those you never took, and a wide range of courses for students in the 21st century. Check out planned courses below:
 1. (current) ENGL 100 - "Workplace Writing and Communications", 12 weeks.
