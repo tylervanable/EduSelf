@@ -1,5 +1,16 @@
 FUTURE EDUSELF COURSE PLANS
 
+
+Course Number Guide:
+
+000-049 - ELEMENTARY & MIDDLE SCHOOL LEVEL
+050-099 - HIGH SCHOOL LEVEL
+100-199 - FIRST YEAR COLLEGE
+200-299 - SECOND YEAR COLLEGE
+300-399 - THIRD YEAR COLLEGE
+400-499 - FOURTH YEAR COLLEGE
+500+ - GRADUATE SCHOOL
+
 COMPUTER SCIENCE [COMP] COURSES:
 
 COMP 80 - "Introduction to Computers"
@@ -42,7 +53,7 @@ COMP 330 - "Cyber Security Principles"
 COMP 335 - "Digital Forensics"
 COMP 340 - "Computer Organization"
 COMP 342 - "Computer Graphics"
-COMP 350 - "Introduction to Artifical Intelligence"
+COMP 354 - "Introduction to Artifical Intelligence"
 COMP 355 - "Object-Oriented Programming"
 COMP 380 - "Organization of Programming Language"
 COMP 384 - "Programming for Data Science"
@@ -55,8 +66,17 @@ COMP 430 - "Secure Programming"
 COMP 432 - "Network and Systems Security"
 COMP 435 - "Network Architectures and Programming"
 COMP 440 - "Operating Systems"
-COMP 450 - "Machine Learning"
+COMP 454 - "Machine Learning"
 COMP 490 - "Symbolic Logic"
+
+KEY
+00's: Introductory Topics
+10-20's: Business Computing
+30-40's: Cybersecurity, Computer Networks and Operating Systems
+50's: Intermediates
+60-70's: N/A
+80's: Programming Language Fundamentals
+90's: Advanced
 
 ENGLISH [ENGL] COURSES:
 
@@ -116,6 +136,18 @@ ENGL 381 - "Introduction to Shakespearean Comedies"
 ENGL 382 - "Introduction to Shakespearean Tragedies"
 ENGL 383 - "Introduction to Shakespearean Histories"
 
+KEY:
+x00's: N/A
+x10's: Fundamentals
+x20's: Topics in Literature
+x30's: Historical Literature Topics
+x40-50's: Intermediates
+x60's: Linguistics
+x70's: Literary Theory and Criticism
+x80's: Shakespeare
+x90's Authors
+
+
 HISTORY [HIST] COURSES:
 
 HIST 150 - "Ancient World History to the Islamic Golden Age
@@ -143,44 +175,85 @@ HIST 282 - "Issues in Modern Middle Eastern History to the Present"
 HIST 364 - "Indigenous Civil Rights in the United States"
 HIST 366 - "History of Financial Crises and Civic Reactions (1700s to the Present)"
 
+KEY:
+x00-10's: N/A
+x20's: Asian History
+x30's: African History
+x40's: Latin American History
+x50's: World History
+x60's: United States History
+x70's: European History
+x80's: Middle Eastern History
+x90's: N/A
+
+
+
+
 MUSIC [MUS] COURSES:
 
-MUS 025 - "Foundations in Music Notation"
+MUS 010 - "Foundations in Music Notation"
 MUS 050 - "Reading Music Notation in an Ensemble"
 MUS 100 - "Introduction to Music"
-MUS 112 - "Topics in Classical Music"
-MUS 113 - "Topics in Jazz"
-MUS 114 - "Topics in Rock n' Roll"
-MUS 115 - "Topics in Hip-Hop & Rap"
-MUS 120 - "Basics in Musical Notation"
+MUS 102 - "Topics in Classical Music"
+MUS 103 - "Topics in Jazz"
+MUS 104 - "Topics in Rock n' Roll"
+MUS 105 - "Topics in Hip-Hop & Rap"
+MUS 110 - "Basics in Musical Notation"
+MUS 111 - "Musicianship Lab I"
+MUS 112 - "Music Theory I"
+MUS 113 - "Musicianship Lab II"
+MUS 114 - "Music Theory II"
+MUS 211 - "Musicianship Lab III"
+MUS 212 - "Music Theory III"
+MUS 213 - "Musicianship Lab IV"
+MUS 214 - "Music Theory IV"
+MUS 215 - "Music, Gesture, and Sound"
+MUS 216 - "Fundamentals of Arranging"
+MUS 217 - "Chord Voicings for Arranging"
 MUS 220 - "Music as a Global Culture"
+MUS 221 - "Global Afrodiasporic Musics"
 MUS 222 - "History of Classical Music"
 MUS 223 - "History of Early Jazz: 1900-1951"
 MUS 224 - "History of Rock n' Roll: 50's through the 70's"
 MUS 225 - "History of Hip-Hop in Black American Culture"
 MUS 250 - "Introduction to Music Therapy"
 MUS 255 - "Introduction to Music Education"
-MUS 321 - "Music as a Form of Social Protest"
+MUS 259 - "Introduction to Music Business"
+MUS 311 - "Choral Conducting"
+MUS 312 - "Instrumental Conducting"
+MUS 313 - "Fundamentals of Jazz Theory"
+MUS 317 - "Scoring for Instrumental Ensembles in the Secondary Schools"
+MUS 318 - "Scoring for Vocal Ensembles in the Secondary Schools"
+MUS 319 - "Arranging for the Middle, High School, and College Jazz Bands"
+MUS 321 - "Black Liberation Music"
 MUS 322 - "American Genre & Identity"
 MUS 323 - "Evolution of Late Jazz: 1952 to the Present"
 MUS 324 - "Evolution of the Rock Genre: 70's through the 21st Century"
-MUS 325 - "History of Rap in Black American Culture
-MUS 402 - "Music and Word in Popular Music"
-MUS 403 - "Music and Word in the Western Art Music Tradition"
-MUS 404 - "Orchestration"
-MUS 405 - "Form and Analysis"
-MUS 406 - "The Concerto"
-MUS 407 - "The Symphony"
-MUS 408 - "The Opera"
-MUS 409 - "The Theatre"
-MUS 421 - "Liturgical Chant and the Medieval Ages"
-MUS 422 - "The Renaissance"
-MUS 423 - "The Baroque Era"
-MUS 424 - "The Classical Era"
-MUS 425 - "The Romantic Era"
-MUS 426 - "The Contemporary Era"
-MUS 428 - "The Origins of Jazz: New Orleans and Chicago"
-MUS 429 - "Swing & Big Band Era"
+MUS 325 - "History of Rap in Black American Culture"
+MUS 326 - "Music as a Form of Social Protest"
+MUS 350 - "Somatic Education for Healthy Musicianship"
+MUS 352 - "General Music Education: Methods & Materials"
+MUS 353 - "Choral Education: Methods & Materials
+MUS 354 - "Instrumental Education: Methods & Materials"
+MUS 355 - "Introduction to Music Production"
+MUS 357 - "Navigating the Live Music Industry"
+MUS 358 - "Business of Music Festivals"
+MUS 413 - "Advanced Jazz Theory"
+MUS 414 - "Orchestration"
+MUS 415 - "Form and Analysis"
+MUS 419 - "Arranging for Contemporary and Small Jazz Ensembles"
+MUS 420 - "The Concerto"
+MUS 421 - "The Symphony"
+MUS 422 - "The Opera"
+MUS 423 - "The Theatre"
+MUS 424 - "Liturgical Chant and the Medieval Ages"
+MUS 425 - "The Renaissance"
+MUS 426 - "The Baroque Era"
+MUS 427 - "The Classical Era"
+MUS 428 - "The Romantic Era"
+MUS 429 - "The Contemporary Era"
+MUS 431 - "The Origins of Jazz: New Orleans and Chicago"
+MUS 432 - "Swing & Big Band Era"
 MUS 433 - "Bebop Era"
 MUS 434 - "Cool Jazz"
 MUS 435 - "Hard Bop"
@@ -188,7 +261,18 @@ MUS 436 - "Avant Garde and Free Jazz"
 MUS 437 - "Fusion and Jazz Rock"
 MUS 438 - "Eclecticism Era in Jazz"
 MUS 439 - "Modern Era Jazz"
+MUS 441 - "Jazz, Gender, and Justice: Diasporic Considerations"
+MUS 442 - "The 'Sugar Road': African Diaspora in the Americas and the Caribbean"
+MUS 443 - "Music and Word in the Western Art Music Tradition"
+MUS 444 - "Music and Word in Popular Music"
 MUS 450 - "Music, Mind, and Body"
+
+KEY:
+x00's: Topics
+x10's: Fundamentals
+x20-40's: History
+x50's: Intermediates
+x60-90's: N/A
 
 PHILOSOPHY [PHIL] COURSES:
 
@@ -234,12 +318,25 @@ PHIL 312 - "Ethical Problems in Society and Medicine"
 PHIL 315 - "Philosophy of Art"
 PHIL 420 - "Symbolic Logic"
 
+KEY:
+x00's: Topics
+x10's: Fundamentals
+x20's: Logic
+x30's: N/A
+x40's: Axiology
+x50's: N/A
+x60's: Metaphysics
+x70's: Literature
+x80's: History
+x90's: N/A
+
+
 VIDEO GAME MUSIC & ART [VGMU & VGAR] COURSES:
 
-VGMU 200 - "Introduction to Video Game Music Composition"
-VGAR 200 - "Introduction to Pixel Art Techniques"
-VGAR 205 - "Introduction to 8-bit Pixel Art Imagery"
-VGAR 206 - "Introduction to 16-bit Pixel Art Imagery"
+VGMU 210 - "Introduction to Video Game Music Composition"
+VGAR 210 - "Introduction to Pixel Art Techniques"
+VGAR 215 - "Introduction to 8-bit Pixel Art Imagery"
+VGAR 216 - "Introduction to 16-bit Pixel Art Imagery"
 VGAR 250 - "Title Screen & Load Screen Design"
 VGAR 280A - "Pixel Art Sprites: Nature"
 VGAR 280B - "Pixel Art Sprites: Food & Crops"
@@ -256,12 +353,11 @@ VGAR 280L - "Pixel Art Sprites: Artifacts & Loot"
 VGAR 280M - "Pixel Art Sprites: Season & Festival"
 VGAR 310 - "Video Game Character Portraits"
 
-Course Number Guide:
-
-000-049 - ELEMENTARY & MIDDLE SCHOOL LEVEL
-050-099 - HIGH SCHOOL LEVEL
-100-199 - FIRST YEAR COLLEGE
-200-299 - SECOND YEAR COLLEGE
-300-399 - THIRD YEAR COLLEGE
-400-499 - FOURTH YEAR COLLEGE
-500+ - GRADUATE SCHOOL
+KEY:
+x00's: N/A
+x10's: Fundamentals
+x20-40's: N/A
+x50's: Intermediates
+x60-70's: N/A
+x80's: Content Creation
+x90's: N/A
