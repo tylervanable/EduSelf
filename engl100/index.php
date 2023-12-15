@@ -49,7 +49,7 @@
     <section>
         <h1> ENGLISH 100 - Workplace Writing and Communication </h1>
 
-        <h2>Week 1 - Introduction to Workplace Communication </h2>
+        <h2><a href="engl100/wk1_engl100.html">Week 1 - Introduction to Workplace Communication</a></h2>
         <h3>Day 1: Understanding Workplace Communication Basics</h3>
         <h3>Day 2: Competent Communication</h3>
         <h3>Day 3: Interpersonal Communication Skills</h3>
@@ -58,7 +58,7 @@
         <h3>PROJECT: Create Journal/List of Communication Strategies and Skills</h3>
         <h3>PROJECT: Pick ONE place you see yourself applying to work. Please pick a workplace you want to stick with for the class. Examples may include a university, Google, the federal Government, a hospital, a school, a laboratory, etc.</h3>
 
-        <h2>Week 2 - Introduction to Workplace Speaking</h2>
+        <h2><a href="engl100/wk2_engl100.html">Week 2 - Introduction to Workplace Speaking</a></h2>
         <h3>Day 6: Fundamentals of Workplace Speaking</h3>
         <h3>Day 7: Public Speaking Techniques</h3>
         <h3>Day 8: Overcoming Speaking Anxiety</h3>
@@ -66,7 +66,7 @@
         <h3>Day 10: Speaking with Tact</h3>
         <h3>PROJECT: Prepare 60-second speech about you and your education, skills, and interests. Describe persuasively why you are a good fit for a your chosen job position. "Sell yourself" to the audience. Then, practice speech in front of family or friends.</h3>
 
-        <h2>Week 3 - Resume Writing</h2>
+        <h2><a href="engl100/wk3_engl100.html">Week 3 - Resume Writing</a></h2>
         <h3>Day 11: Understanding the Components of a Resume</h3>
         <h3>Day 12: Understanding the Purpose of a Resume</h3>
         <h3>Day 13: Tailoring Resumes for Different Jobs</h3>
@@ -74,7 +74,7 @@
         <h3>Day 15: Crafting an Attention-Grabbing Summary and Objective</h3>
         <h3>PROJECT: Prepare a resume for your ficticious application to your chosen workplace from weeks 1 and 2.</h3>
 
-        <h2>Week 4 - Cover Letter Writing</h2>
+        <h2><a href="engl100/wk4_engl100.html">Week 4 - Cover Letter Writing</a></h2>
         <h3>Day 16: Understanding the Structure of a Cover Letter</h3>
         <h3>Day 17: Understanding the Purpose of a Cover Letter</h3>
         <h3>Day 18: Tailoring Cover Letters for Different Positions </h3>
@@ -82,7 +82,7 @@
         <h3>Day 20: Crafting an Engaging Opening and Closing</h3>
         <h3>PROJECT: Prepare a CL for your chosen workplace from weeks 1-3.</h3>
 
-        <h2>Week 5: Introduction to Professional Speaking Strategies</h2>
+        <h2><a href="engl100/wk5_engl100.html">Week 5: Introduction to Professional Speaking Strategies</a></h2>
         <h3>Day 21: Types of Professional Speaking</h3>
         <h3>Day 22: Adapting Communication Style to Different Audiences</h3>
         <h3>Day 23: Effective Use of Visual Aids in Professional Speaking</h3>
