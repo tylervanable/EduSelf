@@ -79,7 +79,8 @@ COMP 383 -  Web Development VI: Advanced Full-Stack Development
 COMP 384 -  Advanced Database Management Systems 
 COMP 385 -  Advanced Python Library Applications'
 COMP 389 -  Programming for Data Science 
-COMP 390 -  (X) Applied Combinatorics 
+COMP 390 - (X) Recursion Theory
+COMP 395 -  (X) Applied Combinatorics 
 COMP 393 -  Computational Linguistics 
 COMP 397 -  Advanced Game Development 
 COMP 410 -  Design and Analysis of Algorithms 
@@ -94,9 +95,10 @@ COMP 455 -  Software Testing
 COMP 482 -  Web Development VII: Advanced Web Technologies and Specialized Development 
 COMP 488 -  Topics in Specialized Web Development 
 COMP 490 - (X) Symbolic Logic 
+COMP 492 -  Big Data Analytics 
 COMP 493 -  Natural Language Processing 
-COMP 494 -  Topics in AI Integration in Society 
-COMP 495 -  Big Data Analytics 
+COMP 494 -  Advanced Topics on AI Integration in Society 
+COMP 495 - (X) Model Theory
 COMP 496 -  Introduction to AI Bioinformatics 
 COMP 497 -  Applied Game Development 
 COMP 596 -  AI Bioinformatics: Genomic Analysis 
@@ -384,11 +386,14 @@ MATH 280 - History of Mathematics
 MATH 290 - (X) Introduction to Set Theory
 MATH 320 - Concepts of Algebra
 MATH 325 - Concepts of Geometry 
-MATH 390 - (X) Applied Combinatorics 
+MATH 390 - (X) Recursion Theory
+MATH 395 - (X) Applied Combinatorics 
 MATH 415 - Matrix Analysis 
 MATH 420 - Number Theory
 MATH 425 - Discrete Mathematical Structures 
 MATH 490 - (X) Symbolic Logic 
+MATH 495 - (X) Model Theory
+MATH 497 - (X) Proof Theory and Constructive Mathematics
 
 KEY
 x00's: Topics
@@ -592,7 +597,8 @@ PHIL 355 -  Philosophy of Religion
 PHIL 359 -  Engineering Ethics 
 PHIl 384 -  Analytic Philosophy: Frege, Russell, Wittgenstein 
 PHIL 455 -  Phenomenological Philosophy 
-PHIL 490 -  Symbolic Logic 
+PHIL 490 -  (X) Symbolic Logic 
+PHIL 497 - (X) Proof Theory and Constructive Mathematics
 
 KEY:
 x00's: Topics
