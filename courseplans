@@ -21,7 +21,7 @@ COMP 25 -  Introduction to Game Programming through Scratch
 COMP 45 -  Introduction to Digital Art 
 COMP 55 -  Game Development with Scratch 
 COMP 80 -  Introduction to Programming Concepts 
-COMP 101 - (X)  Analytic Thinking through Puzzles and Games 
+COMP 101 -  (X) Analytic Thinking through Puzzles and Games 
 COMP 102 -  Computing Concepts 
 COMP 105 -  The Joy of Programming Concepts 
 COMP 110 -  The Impacts of Technology on American Society 
@@ -62,7 +62,7 @@ COMP 286 -  C++ Programming
 COMP 287 -  Java Programming 
 COMP 288 -  C# Programming 
 COMP 289 -  Programming With Data using R-studio 
-COMP 290 - (X) Introduction to Set Theory
+COMP 290 -  (X) Introduction to Set Theory
 COMP 310 -  Social Issues in Computing 
 COMP 340 -  Cyber Security Principles 
 COMP 345 -  Digital Forensics 
@@ -79,7 +79,7 @@ COMP 383 -  Web Development VI: Advanced Full-Stack Development
 COMP 384 -  Advanced Database Management Systems 
 COMP 385 -  Advanced Python Library Applications'
 COMP 389 -  Programming for Data Science 
-COMP 390 - (X) Recursion Theory
+COMP 390 -  (X) Recursion Theory
 COMP 395 -  (X) Applied Combinatorics 
 COMP 393 -  Computational Linguistics 
 COMP 397 -  Advanced Game Development 
@@ -94,11 +94,11 @@ COMP 454 -  Deep Learning with Neural Networks
 COMP 455 -  Software Testing 
 COMP 482 -  Web Development VII: Advanced Web Technologies and Specialized Development 
 COMP 488 -  Topics in Specialized Web Development 
-COMP 490 - (X) Symbolic Logic 
+COMP 490 -  (X) Symbolic Logic 
 COMP 492 -  Big Data Analytics 
 COMP 493 -  Natural Language Processing 
 COMP 494 -  Advanced Topics on AI Integration in Society 
-COMP 495 - (X) Model Theory
+COMP 495 -  (X) Model Theory
 COMP 496 -  Introduction to AI Bioinformatics 
 COMP 497 -  Applied Game Development 
 COMP 596 -  AI Bioinformatics: Genomic Analysis 
@@ -115,40 +115,40 @@ x90's: Advanced
 
 COMMUNITY PLANNING [CPLN] COURSES:
 
-CPLN 100 - Introduction to Community Planning
-CPLN 120 - Introductory Urban Geography: Understanding Cities
-CPLN 125 - Introduction to Land Development
-CPLN 160 - Community Engagement and Participation
-CPLN 170 - Public Policy Fundamentals in Planning
-CPLN 190 - Advanced Community Development Strategies
-CPLN 220 - Geography in Planning Fundamentals
-CPLN 250 - Intermediate Urban Planning
-CPLN 260 - Real Estate and Land Use Economics
-CPLN 270 - Economic Principles in Urban Planning
-CPLN 280 - Planning Law and Ethics
-CPLN 290 - Legal Frameworks in Community Planning
-CPLN 300 - Introduction to the Community Planning Practice 
-CPLN 330 - Land Use and Spatial Planning
-CPLN 335 - Land Development
-CPLN 340 - Urban Sociology and Community Analysis
-CPLN 350 - Environmental Planning and Sustainability
-CPLN 360 - International Comparisons in Urban and Regional Planning
-CPLN 363 - The Urban Waterfront
-CPLN 365 - Community Planning and Urban and Regional Planning
-CPLN 380 - Housing Policy and Community Welfare
-CPLN 390 - Geographic Information Systems in Planning
-CPLN 400 - Contemporary Issues in Urban Development
-CPLN 430 - Urban Infrastructure Management
-CPLN 435 - Land Resource Economics
-CPLN 440 - Site Planning
-CPLN 450 - Advanced Transportation Planning
-CPLN 460 - Planning Theory
-CPLN 462 - Planning Methods
-CPLN 465 - Urban and Rural Transportation 
-CPLN 470 - Planning Law
-CPLN 475 - Environmental Law
-CPLN 480 - Planning Policy and Analysis 
-CPLN 490 - Advanced Urban Design and Aesthetics
+CPLN 100 -  Introduction to Community Planning
+CPLN 120 -  Introductory Urban Geography: Understanding Cities
+CPLN 125 -  Introduction to Land Development
+CPLN 160 -  Community Engagement and Participation
+CPLN 170 -  Public Policy Fundamentals in Planning
+CPLN 190 -  Advanced Community Development Strategies
+CPLN 220 -  Geography in Planning Fundamentals
+CPLN 250 -  Intermediate Urban Planning
+CPLN 260 -  Real Estate and Land Use Economics
+CPLN 270 -  Economic Principles in Urban Planning
+CPLN 280 -  Planning Law and Ethics
+CPLN 290 -  Legal Frameworks in Community Planning
+CPLN 300 -  Introduction to the Community Planning Practice 
+CPLN 330 -  Land Use and Spatial Planning
+CPLN 335 -  Land Development
+CPLN 340 -  Urban Sociology and Community Analysis
+CPLN 350 -  Environmental Planning and Sustainability
+CPLN 360 -  International Comparisons in Urban and Regional Planning
+CPLN 363 -  The Urban Waterfront
+CPLN 365 -  Community Planning and Urban and Regional Planning
+CPLN 380 -  Housing Policy and Community Welfare
+CPLN 390 -  Geographic Information Systems in Planning
+CPLN 400 -  Contemporary Issues in Urban Development
+CPLN 430 -  Urban Infrastructure Management
+CPLN 435 -  Land Resource Economics
+CPLN 440 -  Site Planning
+CPLN 450 -  Advanced Transportation Planning
+CPLN 460 -  Planning Theory
+CPLN 462 -  Planning Methods
+CPLN 465 -  Urban and Rural Transportation 
+CPLN 470 -  Planning Law
+CPLN 475 -  Environmental Law
+CPLN 480 -  Planning Policy and Analysis 
+CPLN 490 -  Advanced Urban Design and Aesthetics
 
 KEY
 x00's: Introductory Topics
@@ -360,43 +360,43 @@ x80's: N/A
 x90's: Advanced
 
 MATHEMATICS [MATH] COURSES:
-MATH 040 - Pre-Algebra
-MATH 050 - Foundations in Algebra
-MATH 060 - Introduction to Geometry
-MATH 075 - Algebra II
-MATH 090 - Introduction to Trigonometry
-MATH 101 - (X) Analytic Thinking through Puzzles and Games 
-MATH 105 - (X) Introduction to Formal Logic
-MATH 107 - Introduction to Finite Mathematics
-MATH 110 - Pre-Calculus
-MATH 111 - Applied Calculus I
-MATH 112 - Applied Calculus II
-MATH 130 - Statistical Analysis I
-MATH 132 - Statistical Analysis II
-MATH 205 - Mathematical Foundations for Business Analysis
-MATH 206 - Numeracy for Teachers
-MATH 207 - Numeracy for Teachers II
-MATH 208 - Mathematics of Social Choice and Finance
-MATH 209 - Politics and Mathematics 
-MATH 210 - Introduction to Linear Algebra
-MATH 211 - Applied Calculus III
-MATH 212 - Multivariate Calculus
-MATH 215 - Differential Equations
+MATH 040 -  Pre-Algebra
+MATH 050 -  Foundations in Algebra
+MATH 060 -  Introduction to Geometry
+MATH 075 -  Algebra II
+MATH 090 -  Introduction to Trigonometry
+MATH 101 -  (X) Analytic Thinking through Puzzles and Games 
+MATH 105 -  (X) Introduction to Formal Logic
+MATH 107 -  Introduction to Finite Mathematics
+MATH 110 -  Pre-Calculus
+MATH 111 -  Applied Calculus I
+MATH 112 -  Applied Calculus II
+MATH 130 -  Statistical Analysis I
+MATH 132 -  Statistical Analysis II
+MATH 205 -  Mathematical Foundations for Business Analysis
+MATH 206 -  Numeracy for Teachers
+MATH 207 -  Numeracy for Teachers II
+MATH 208 -  Mathematics of Social Choice and Finance
+MATH 209 -  Politics and Mathematics 
+MATH 210 -  Introduction to Linear Algebra
+MATH 211 -  Applied Calculus III
+MATH 212 -  Multivariate Calculus
+MATH 215 -  Differential Equations
 MATH 220 -  (X) Intermediate Logic 
 MATH 226 -  (X) Modern Logic 
 MATH 227 -  (X) Modal Logic 
-MATH 280 - History of Mathematics
-MATH 290 - (X) Introduction to Set Theory
-MATH 320 - Concepts of Algebra
-MATH 315 - Concepts of Geometry 
-MATH 390 - (X) Recursion Theory
-MATH 395 - (X) Applied Combinatorics 
-MATH 410 - Number Theory
-MATH 415 - Discrete Mathematical Structures 
-MATH 419 - (X) Matrix Analysis 
-MATH 490 - (X) Symbolic Logic 
-MATH 495 - (X) Model Theory
-MATH 497 - (X) Proof Theory and Constructive Mathematics
+MATH 280 -  History of Mathematics
+MATH 290 -  (X) Introduction to Set Theory
+MATH 320 -  Concepts of Algebra
+MATH 315 -  Concepts of Geometry 
+MATH 390 -  (X) Recursion Theory
+MATH 395 -  (X) Applied Combinatorics 
+MATH 410 -  Number Theory
+MATH 415 -  Discrete Mathematical Structures 
+MATH 419 -  (X) Matrix Analysis 
+MATH 490 -  (X) Symbolic Logic 
+MATH 495 -  (X) Model Theory
+MATH 497 -  (X) Proof Theory and Constructive Mathematics
 
 KEY
 x00's: Topics
@@ -491,7 +491,7 @@ MUS 413 -  Advanced Jazz Theory
 MUS 414 -  Orchestration 
 MUS 415 -  Form and Analysis 
 MUS 416 -  Arranging for Contemporary and Small Jazz Ensembles 
-MUS 419 - (X) Matrix Analysis
+MUS 419 -  (X) Matrix Analysis
 MUS 420 -  The Concerto 
 MUS 421 -  The Symphony 
 MUS 422 -  The Opera 
@@ -533,33 +533,33 @@ x70's: Instrumental
 x80's-90's: N/A
 
 NEUROSCIENCE [NEU] COURSES:
-NEU 100 - Foundations of Neuroscience
-NEU 230 - Neuroscience Professional Development
-NEU 250 - Neuroscience Research Methods
-NEU 310 - Developmental Neurobiology
-NEU 315 - Cellular and Molecular Neurosciences
-NEU 320 - Clinical Neuroscience
-NEU 325 - (X) Clinical Neuroanatomy
-NEU 245 - (X) Introduction to Neuroethics and Diversity
-NEU 310 - Developmental Neurobiology
-NEU 350 - Brain, Behavior, and Immunity
-NEU 352 - Neural Systems and Behavior
-NEU 360 - Biological Neuropsychology
-NEU 365 - Behavioral Endocrinology
-NEU 390 - Comparative Neurobiology
-NEU 410 - Neurobiology of Learning and Memory
-NEU 415 - Neurobiology of Cognitive Decline
-NEU 420 - Clinical Neuroscience
-NEU 445 - (X) Neuroethics
-NEU 450 - Human Neuroscience and Neurology
-NEU 455 - Sensory Ecology
-NEU 460 - Neuropsychology
-NEU 465 - Neuropsychology of Fear
-NEU 466 - Neuropsychology of Addiction
-NEU 490 - Psychopharmacology
-NEU 495 - Behavioral Genetics
-NEU 550 - Cell and Molecular Neuroscience
-NEU 595 - Multidisciplinary Approaches in Motor Control
+NEU 100 -  Foundations of Neuroscience
+NEU 230 -  Neuroscience Professional Development
+NEU 250 -  Neuroscience Research Methods
+NEU 310 -  Developmental Neurobiology
+NEU 315 -  Cellular and Molecular Neurosciences
+NEU 320 -  Clinical Neuroscience
+NEU 325 -  (X) Clinical Neuroanatomy
+NEU 245 -  (X) Introduction to Neuroethics and Diversity
+NEU 310 -  Developmental Neurobiology
+NEU 350 -  Brain, Behavior, and Immunity
+NEU 352 -  Neural Systems and Behavior
+NEU 360 -  Biological Neuropsychology
+NEU 365 -  Behavioral Endocrinology
+NEU 390 -  Comparative Neurobiology
+NEU 410 -  Neurobiology of Learning and Memory
+NEU 415 -  Neurobiology of Cognitive Decline
+NEU 420 -  Clinical Neuroscience
+NEU 445 -  (X) Neuroethics
+NEU 450 -  Human Neuroscience and Neurology
+NEU 455 -  Sensory Ecology
+NEU 460 -  Neuropsychology
+NEU 465 -  Neuropsychology of Fear
+NEU 466 -  Neuropsychology of Addiction
+NEU 490 -  Psychopharmacology
+NEU 495 -  Behavioral Genetics
+NEU 550 -  Cell and Molecular Neuroscience
+NEU 595 -  Multidisciplinary Approaches in Motor Control
 
 x00's: Fundamentals
 x10's: Neurobiology
@@ -575,7 +575,7 @@ PHILOSOPHY [PHIL] COURSES:
 
 PHIL 101 -  Introduction to Topics in Philosophy 
 PHIL 103 -  Critical Thinking 
-PHIL 105 - (X) Introduction to Formal Logic
+PHIL 105 -  (X) Introduction to Formal Logic
 PHIL 108 -  Topics in Philosophy of Religion 
 PHIL 115 -  The Problem of Evil 
 PHIL 116 -  Inequality 
@@ -601,7 +601,7 @@ PHIL 227 -  Modal Logic
 PHIL 240 -  Epistemic Inustice 
 PHIL 241 -  Skepticism 
 PHIL 242 -  Feminism in Arts and Sciences 
-PHIL 245 - (X) Introduction to Neuroethics and Diversity
+PHIL 245 -  (X) Introduction to Neuroethics and Diversity
 PHIL 249 -  Educational Justice 
 PHIL 250 -  Power and Justice: Contemporary Critical Philosophies 
 PHIL 255 -  Introduction to Eastern Philosophies 
@@ -619,7 +619,7 @@ PHIL 285 -  Modern Philosophy: Descartes to Kant
 PHIL 286 -  Recent European Philosophy 
 PHIL 287 -  European Philosophy: Love and Nihilism 
 PHIL 279 -  Philosophy and Architecture 
-PHIL 290 - (X) Introduction to Set Theory
+PHIL 290 -  (X) Introduction to Set Theory
 PHIL 312 -  Ethical Problems in Society and Medicine 
 PHIL 320 -  Knowledge, Belief, and Truth 
 PHIL 340 -  Philosophy of Art 
@@ -628,10 +628,10 @@ PHIL 352 -  American Philosophy
 PHIL 355 -  Philosophy of Religion 
 PHIL 359 -  Engineering Ethics 
 PHIl 384 -  Analytic Philosophy: Frege, Russell, Wittgenstein 
-PHIL 445 - (X) Neuroethics
+PHIL 445 -  (X) Neuroethics
 PHIL 455 -  Phenomenological Philosophy 
 PHIL 490 -  (X) Symbolic Logic 
-PHIL 497 - (X) Proof Theory and Constructive Mathematics
+PHIL 497 -  (X) Proof Theory and Constructive Mathematics
 
 KEY:
 x00's: Topics
