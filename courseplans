@@ -524,21 +524,30 @@ x10's: Fundamentals
 x20-40's: History
 x50's: Intermediates
 x60's: Choral
-x70-90's: N/A
+x70's: Instrumental
+x80's-90's: N/A
 
 NEUROSCIENCE [NEU] COURSES:
 NEU 100 - Foundations of Neuroscience
-NEU 215 - Neuroethics and Diversity
 NEU 230 - Neuroscience Professional Development
 NEU 250 - Neuroscience Research Methods
 NEU 310 - Developmental Neurobiology
+NEU 315 - Cellular and Molecular Neurosciences
 NEU 320 - Clinical Neuroscience
-NEU 340 - Cellular and Molecular Neurosciences
-NEU 350 - (X) Clinical Neuroanatomy
+NEU 325 - (X) Clinical Neuroanatomy
+NEU 245 - (X) Introduction to Neuroethics and Diversity
 NEU 355 - (X) Biological Psychology
-NEU 415 - Neuroethics
+NEU 445 - (X) Neuroethics
 NEU 450 - Human Neuroscience and Neurology
 NEU 455 - Sensory Ecology
+
+x00's: Fundamentals
+x10's: Neurobiology
+x20's: Clinical
+x30's: Professional Development
+x40's: Neuroethics
+x50's: Intermediates
+x60-90's: N/A
 
 PHILOSOPHY [PHIL] COURSES:
 
@@ -570,7 +579,8 @@ PHIL 226 -  Modern Logic
 PHIL 227 -  Modal Logic 
 PHIL 240 -  Epistemic Inustice 
 PHIL 241 -  Skepticism 
-PHIL 245 -  Feminism in Arts and Sciences 
+PHIL 242 -  Feminism in Arts and Sciences 
+PHIL 245 - (X) Introduction to Neuroethics and Diversity
 PHIL 249 -  Educational Justice 
 PHIL 250 -  Power and Justice: Contemporary Critical Philosophies 
 PHIL 255 -  Introduction to Eastern Philosophies 
@@ -596,6 +606,7 @@ PHIL 352 -  American Philosophy
 PHIL 355 -  Philosophy of Religion 
 PHIL 359 -  Engineering Ethics 
 PHIl 384 -  Analytic Philosophy: Frege, Russell, Wittgenstein 
+PHIL 445 - (X) Neuroethics
 PHIL 455 -  Phenomenological Philosophy 
 PHIL 490 -  (X) Symbolic Logic 
 PHIL 497 - (X) Proof Theory and Constructive Mathematics
