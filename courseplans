@@ -369,8 +369,8 @@ MATH 101 - (X) Analytic Thinking through Puzzles and Games
 MATH 105 - (X) Introduction to Formal Logic
 MATH 107 - Introduction to Finite Mathematics
 MATH 110 - Pre-Calculus
-MATH 121 - Applied Calculus I
-MATH 122 - Applied Calculus II
+MATH 111 - Applied Calculus I
+MATH 112 - Applied Calculus II
 MATH 130 - Statistical Analysis I
 MATH 132 - Statistical Analysis II
 MATH 205 - Mathematical Foundations for Business Analysis
@@ -379,25 +379,29 @@ MATH 207 - Numeracy for Teachers II
 MATH 208 - Mathematics of Social Choice and Finance
 MATH 209 - Politics and Mathematics 
 MATH 210 - Introduction to Linear Algebra
-MATH 221 - Applied Calculus III
-MATH 222 - Multivariate Calculus
-MATH 225 - Differential Equations
+MATH 211 - Applied Calculus III
+MATH 212 - Multivariate Calculus
+MATH 215 - Differential Equations
+MATH 220 -  (X) Intermediate Logic 
+MATH 226 -  (X) Modern Logic 
+MATH 227 -  (X) Modal Logic 
 MATH 280 - History of Mathematics
 MATH 290 - (X) Introduction to Set Theory
 MATH 320 - Concepts of Algebra
-MATH 325 - Concepts of Geometry 
+MATH 315 - Concepts of Geometry 
 MATH 390 - (X) Recursion Theory
 MATH 395 - (X) Applied Combinatorics 
-MATH 415 - Matrix Analysis 
-MATH 420 - Number Theory
-MATH 425 - Discrete Mathematical Structures 
+MATH 410 - Number Theory
+MATH 415 - Discrete Mathematical Structures 
+MATH 419 - (X) Matrix Analysis 
 MATH 490 - (X) Symbolic Logic 
 MATH 495 - (X) Model Theory
 MATH 497 - (X) Proof Theory and Constructive Mathematics
 
 KEY
 x00's: Topics
-x10-20's: Fundamentals
+x10's: Fundamentals
+x20's: Logic
 x30-40's: N/A
 x50's: Intermediates
 x60-70's: N/A
@@ -486,7 +490,8 @@ MUS 375 -  World Percussion Traditions
 MUS 413 -  Advanced Jazz Theory 
 MUS 414 -  Orchestration 
 MUS 415 -  Form and Analysis 
-MUS 419 -  Arranging for Contemporary and Small Jazz Ensembles 
+MUS 416 -  Arranging for Contemporary and Small Jazz Ensembles 
+MUS 419 - (X) Matrix Analysis
 MUS 420 -  The Concerto 
 MUS 421 -  The Symphony 
 MUS 422 -  The Opera 
@@ -574,7 +579,6 @@ PHIL 217 -  The Many and the Few
 PHIL 218 -  Privacy, Security, Connectivity 
 PHIL 219 -  Philosophy of Technology: Marx to AI 
 PHIL 220 -  Intermediate Logic 
-PHIL 225 -  Foundations of Set Theory 
 PHIL 226 -  Modern Logic 
 PHIL 227 -  Modal Logic 
 PHIL 240 -  Epistemic Inustice 
@@ -598,6 +602,7 @@ PHIL 285 -  Modern Philosophy: Descartes to Kant
 PHIL 286 -  Recent European Philosophy 
 PHIL 287 -  European Philosophy: Love and Nihilism 
 PHIL 279 -  Philosophy and Architecture 
+PHIL 290 - (X) Introduction to Set Theory
 PHIL 312 -  Ethical Problems in Society and Medicine 
 PHIL 320 -  Knowledge, Belief, and Truth 
 PHIL 340 -  Philosophy of Art 
