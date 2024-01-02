@@ -11,6 +11,8 @@ Course Number Guide:
 400-499 - FOURTH YEAR COLLEGE
 500+ - GRADUATE SCHOOL
 
+NOTE: "(X)" indicates cross-listed course between disciplines. 
+
 COMPUTER SCIENCE [COMP] COURSES:
 COMP 05 -  Cyber Exploration Fundamentals: Internet Safety 
 COMP 10 -  Fundamentals of Typing through Computer Games 
@@ -19,7 +21,7 @@ COMP 25 -  Introduction to Game Programming through Scratch
 COMP 45 -  Introduction to Digital Art 
 COMP 55 -  Game Development with Scratch 
 COMP 80 -  Introduction to Programming Concepts 
-COMP 101 -  Analytic Thinking through Puzzles and Games 
+COMP 101 - (X)  Analytic Thinking through Puzzles and Games 
 COMP 102 -  Computing Concepts 
 COMP 105 -  The Joy of Programming Concepts 
 COMP 110 -  The Impacts of Technology on American Society 
@@ -60,6 +62,7 @@ COMP 286 -  C++ Programming
 COMP 287 -  Java Programming 
 COMP 288 -  C# Programming 
 COMP 289 -  Programming With Data using R-studio 
+COMP 290 - (X) Introduction to Set Theory
 COMP 310 -  Social Issues in Computing 
 COMP 340 -  Cyber Security Principles 
 COMP 345 -  Digital Forensics 
@@ -76,7 +79,7 @@ COMP 383 -  Web Development VI: Advanced Full-Stack Development
 COMP 384 -  Advanced Database Management Systems 
 COMP 385 -  Advanced Python Library Applications'
 COMP 389 -  Programming for Data Science 
-COMP 390 -  Applied Combinatorics 
+COMP 390 -  (X) Applied Combinatorics 
 COMP 393 -  Computational Linguistics 
 COMP 397 -  Advanced Game Development 
 COMP 410 -  Design and Analysis of Algorithms 
@@ -90,7 +93,7 @@ COMP 454 -  Deep Learning with Neural Networks
 COMP 455 -  Software Testing 
 COMP 482 -  Web Development VII: Advanced Web Technologies and Specialized Development 
 COMP 488 -  Topics in Specialized Web Development 
-COMP 490 -  Symbolic Logic 
+COMP 490 - (X) Symbolic Logic 
 COMP 493 -  Natural Language Processing 
 COMP 494 -  Topics in AI Integration in Society 
 COMP 495 -  Big Data Analytics 
@@ -360,6 +363,8 @@ MATH 050 - Foundations in Algebra
 MATH 060 - Introduction to Geometry
 MATH 075 - Algebra II
 MATH 090 - Introduction to Trigonometry
+MATH 101 - (X) Analytic Thinking through Puzzles and Games 
+MATH 105 - (X) Introduction to Formal Logic
 MATH 107 - Introduction to Finite Mathematics
 MATH 110 - Pre-Calculus
 MATH 121 - Applied Calculus I
@@ -376,11 +381,14 @@ MATH 221 - Applied Calculus III
 MATH 222 - Multivariate Calculus
 MATH 225 - Differential Equations
 MATH 280 - History of Mathematics
+MATH 290 - (X) Introduction to Set Theory
 MATH 320 - Concepts of Algebra
 MATH 325 - Concepts of Geometry 
+MATH 390 - (X) Applied Combinatorics 
 MATH 415 - Matrix Analysis 
 MATH 420 - Number Theory
 MATH 425 - Discrete Mathematical Structures 
+MATH 490 - (X) Symbolic Logic 
 
 KEY
 x00's: Topics
@@ -513,10 +521,25 @@ x50's: Intermediates
 x60's: Choral
 x70-90's: N/A
 
+NEUROSCIENCE [NEU] COURSES:
+NEU 100 - Foundations of Neuroscience
+NEU 215 - Neuroethics and Diversity
+NEU 230 - Neuroscience Professional Development
+NEU 250 - Neuroscience Research Methods
+NEU 310 - Developmental Neurobiology
+NEU 320 - Clinical Neuroscience
+NEU 340 - Cellular and Molecular Neurosciences
+NEU 350 - (X) Clinical Neuroanatomy
+NEU 355 - (X) Biological Psychology
+NEU 415 - Neuroethics
+NEU 450 - Human Neuroscience and Neurology
+NEU 455 - Sensory Ecology
+
 PHILOSOPHY [PHIL] COURSES:
 
 PHIL 101 -  Introduction to Topics in Philosophy 
 PHIL 103 -  Critical Thinking 
+PHIL 105 - (X) Introduction to Formal Logic
 PHIL 108 -  Topics in Philosophy of Religion 
 PHIL 115 -  The Problem of Evil 
 PHIL 116 -  Inequality 
@@ -583,7 +606,7 @@ x70's: Literature
 x80's: History
 x90's: Advanced
 
-VIDEO GAME MUSIC & ART [VGMU & VGAR] COURSES:
+VIDEO GAME MUSIC & ART [VGMU & VGAR] COURSES: (to be developed)
 
 VGMU 210 -  Introduction to Video Game Music Composition 
 VGAR 210 -  Introduction to Pixel Art Techniques 
