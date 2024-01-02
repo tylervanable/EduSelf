@@ -541,10 +541,25 @@ NEU 315 - Cellular and Molecular Neurosciences
 NEU 320 - Clinical Neuroscience
 NEU 325 - (X) Clinical Neuroanatomy
 NEU 245 - (X) Introduction to Neuroethics and Diversity
-NEU 355 - (X) Biological Psychology
+NEU 310 - Developmental Neurobiology
+NEU 350 - Brain, Behavior, and Immunity
+NEU 352 - Neural Systems and Behavior
+NEU 360 - Biological Neuropsychology
+NEU 365 - Behavioral Endocrinology
+NEU 390 - Comparative Neurobiology
+NEU 410 - Neurobiology of Learning and Memory
+NEU 415 - Neurobiology of Cognitive Decline
+NEU 420 - Clinical Neuroscience
 NEU 445 - (X) Neuroethics
 NEU 450 - Human Neuroscience and Neurology
 NEU 455 - Sensory Ecology
+NEU 460 - Neuropsychology
+NEU 465 - Neuropsychology of Fear
+NEU 466 - Neuropsychology of Addiction
+NEU 490 - Psychopharmacology
+NEU 495 - Behavioral Genetics
+NEU 550 - Cell and Molecular Neuroscience
+NEU 595 - Multidisciplinary Approaches in Motor Control
 
 x00's: Fundamentals
 x10's: Neurobiology
@@ -552,7 +567,9 @@ x20's: Clinical
 x30's: Professional Development
 x40's: Neuroethics
 x50's: Intermediates
-x60-90's: N/A
+x60's: Neuropsychology
+x70's-80's: N/A
+x90's: Advanced
 
 PHILOSOPHY [PHIL] COURSES:
 
