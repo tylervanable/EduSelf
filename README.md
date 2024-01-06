@@ -1,5 +1,5 @@
 # EduSelf
-To access progress, go to "sites" directory. Go to 'courseplans' for prospective classes in the curriculum. Click on specific course folder for content.
+To access progress, go to "site" directory. Go to 'courseplans' for prospective classes in the curriculum. Click on specific course folder for content.
 
 A public access curriculum database project! Inspired by Khan Academy, EduSelf is ran as a collection of challenge-by-choice courses, meaning there is nothing assessed for a grade. Assignments are for practicing skills and applying understanding of concepts. Assignments might include journals, Google/ChatGPT investigations, and essays. (As I get better with HTML, CSS, JavaScript, databases, etc., I hope to include assignments that can be automatically graded...!) Enjoy the courses and their content as you wish at your own pace! 
 
