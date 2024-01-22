@@ -13,7 +13,7 @@ Course Number Guide:
 
 NOTE: "(X)" indicates cross-listed course between disciplines. 
 
-COMPUTER SCIENCE [COMP] COURSES:
+[COMP] COMPUTER SCIENCE COURSES:
 COMP 05 -  Cyber Exploration Fundamentals: Internet Safety 
 COMP 10 -  Fundamentals of Typing through Computer Games 
 COMP 15 -  The World of Computers 
@@ -112,7 +112,7 @@ x60-70's: N/A
 x80's: Programming Language Fundamentals
 x90's: Advanced
 
-COMMUNITY PLANNING [CPLN] COURSES:
+[CPLN] COMMUNITY PLANNING COURSES:
 
 CPLN 100 -  Introduction to Community Planning
 CPLN 120 -  Introductory Urban Geography: Understanding Cities
@@ -161,7 +161,45 @@ x70's: Law
 x80's: Policy
 x90's: Advanced
 
-ECONOMICS [ECON] COURSES:
+[CON] CONSTRUCTION COURSES:
+CON 101 -  Fundamentals of Construction I
+CON 102 -  Fundamentals of Construction II
+CON 103 -  Fundamentals of Construction III
+CON 110 -  Construction Mathematics
+CON 115 -  Building Science and Technology
+CON 140 -  Introduction to Construction Management
+CON 150 -  Basic Architechtural Drawing and Blueprints
+CON 201 -  Construction Safety and OSHA Compliance
+CON 202 -  Building Materials and Sustainability
+CON 251 -  Intermediate Woodworking Techniques
+CON 252 -  Electrical Systems in Construction
+CON 253 -  Plumbing and Piping Systems
+CON 254 -  HVAC Systems and Controls 
+CON 255 -  Construction Surveying and Layout 
+CON 270 -  Introduction to Sustainable Construction 
+CON 301 -  Advanced CAD and 3D Modeling
+CON 302 -  Structural Analysis and Design
+CON 303 -  Construction Project Managament
+CON 371 -  Advanced Structural Design
+CON 372 -  Soil Mechanics and Foundation Engineering
+CON 373 -  Reinforced Concrete Design
+CON 374 -  Steel Structure Design
+CON 375 -  Emergency-Prepared Construction
+CON 376 -  Earthquake Engineering and Seismic Design
+CON 401 -  Advanced Construction Techniques
+CON 402 -  Construction Law and Contracts
+CON 441 -  Advanced Project Management Techniques
+CON 442 -  Construction Finance and Cost Control
+CON 443 -  Human Resource Management in Construction
+CON 444 -  Risk Management and Insurance in Construction
+CON 445 -  Sustainable Construction Management
+CON 461 -  Construction Contract Law
+CON 462 -  Building Codes and Regulations
+CON 463 -  Environmental Law for Construction
+CON 464 -  Intellectual Property of Construction Technology
+CON 465 -  Legal Aspects of Construction Safety
+
+[ECON] ECONOMICS COURSES:
 
 ECON 100 -  Introduction to Economics
 ECON 211 -  Principles of Microeconomics 
@@ -188,7 +226,6 @@ ECON 395 -  Economic Growth and Development
 ECON 396 -  The Economics of Race, Gender, and Class
 ECON 480 -  International Political Economy
 
-
 KEY
 x00's: Introductory Topics
 x10's: Fundamentals
@@ -201,7 +238,7 @@ x70's: N/A
 x80's: International
 x90's: Advanced & Interdisciplinary
 
-ENGLISH [ENGL] COURSES:
+[ENGL] ENGLISH COURSES:
 
 ENGL 025 -  Elementary Writing 
 ENGL 045 -  Introduction to Debate 
@@ -287,7 +324,7 @@ x70's: Literary Theory and Criticism
 x80's: Shakespeare
 x90's Authors
 
-HISTORY [HIST] COURSES:
+[HIST] HISTORY COURSES:
 
 HIST 58 -  Exploring the Silk Road: A Historical Adventure 
 HIST 110 -  Pre-Columbian Native American History 
@@ -339,7 +376,7 @@ x70's: European History
 x80's: Middle Eastern History
 x90's: Advanced
 
-JAPANESE LANGUAGE [JPN] COURSES:
+[JPN] JAPANESE LANGUAGE COURSES:
 JPN 111 -  Beginning Japanese I 
 JPN 112 -  Beginning Japanese II 
 JPN 113 -  Elementary Japanese I 
@@ -398,7 +435,7 @@ x70's: Special Topics
 x80's: N/A
 x90's: Advanced
 
-MATHEMATICS [MATH] COURSES:
+[MATH] MATHEMATICS COURSES:
 MATH 040 -  Pre-Algebra
 MATH 050 -  Foundations in Algebra
 MATH 060 -  Introduction to Geometry
@@ -447,7 +484,7 @@ x60-70's: N/A
 x80's: History
 x90's: Advanced
 
-MUSIC [MUS] COURSES:
+[MUS] MUSIC COURSES:
 
 MUS 010 -  Foundations in Music Notation 
 MUS 050 -  Reading Music Notation in an Ensemble 
@@ -571,7 +608,7 @@ x60's: Choral
 x70's: Instrumental
 x80's-90's: N/A
 
-NEUROSCIENCE [NEU] COURSES:
+[NEU] NEUROSCIENCE COURSES:
 NEU 100 -  Foundations of Neuroscience
 NEU 230 -  Neuroscience Professional Development
 NEU 250 -  Neuroscience Research Methods
@@ -610,7 +647,7 @@ x60's: Neuropsychology
 x70's-80's: N/A
 x90's: Advanced
 
-PHILOSOPHY [PHIL] COURSES:
+[PHIL] PHILOSOPHY COURSES:
 
 PHIL 101 -  Introduction to Topics in Philosophy 
 PHIL 103 -  Critical Thinking 
@@ -685,7 +722,7 @@ x70's: Literature
 x80's: History
 x90's: Advanced
 
-VIDEO GAME MUSIC & ART [VGMU & VGAR] COURSES: (to be developed)
+[VGMU & VGAR] VIDEO GAME MUSIC & ART COURSES: (to be developed)
 
 VGMU 210 -  Introduction to Video Game Music Composition 
 VGAR 210 -  Introduction to Pixel Art Techniques 
