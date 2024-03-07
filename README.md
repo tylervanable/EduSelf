@@ -7,7 +7,7 @@ I'd like to compile EduSelf as database of these courses, their syllabi, schedul
 
 Until I become more proficient with databases, I am compiling my own EduSelf course sites with my own content. I am also compiling lists of courses from catalogs around the USA. 
 
-## Content 
+## Content    
 Courses have weekly themes and daily topics. Content includes [1] learning objectives for what you will learn, [2] vocabulary vital to understanding, [3] YouTube videos and hyperlinks, and [4] summaries of daily learning objectives. Projects are introduced in the beginning of the week and reinforced throughout it. 
 
 Assignments are for practicing skills and applying understanding of concepts. Assignments might include journals, Google/ChatGPT investigations, and essays. (As I get better with HTML, CSS, JavaScript, databases, etc., I hope to include assignments that can be automatically graded...!) Enjoy the courses and their content as you wish at your own pace! 
