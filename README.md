@@ -5,7 +5,7 @@ A public access curriculum database project! Inspired by Khan Academy, EduSelf r
 
 I'd like to compile EduSelf as database of these courses, their syllabi, schedules, and sample course material from around the world.  
 
-Until I become more proficient with databases, I am compiling my own EduSelf course sites with my own content. I am also compiling lists of courses from catalogs around the USA. 
+Until I become more proficient with databases and data structures, I am compiling my own EduSelf course sites with my own content. I am also compiling lists of courses from catalogs around the USA. 
 
 ## Content    
 Courses have weekly themes and daily topics. Content includes [1] learning objectives for what you will learn, [2] vocabulary vital to understanding, [3] YouTube videos and hyperlinks, and [4] summaries of daily learning objectives. Projects are introduced in the beginning of the week and reinforced throughout it. 
