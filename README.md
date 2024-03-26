@@ -3,7 +3,7 @@ To access progress, go to "site" directory. Go to 'courseplans' for prospective 
 
 A public access curriculum database project! Inspired by Khan Academy, EduSelf runs as a collection of easily accessible, challenge-by-choice courses, meaning there is nothing assessed for a grade. Courses range from mathematics to English; philosophy to neuroscience; music to the Japanese language. 
 
-I'd like to compile EduSelf as database of these courses, their syllabi, schedules, and sample course material from around the world.  
+Eventually I'd like to compile EduSelf as database of these courses, their syllabi, schedules, and sample course material from around the world.  
 
 Until I become more proficient with databases and data structures, I am compiling my own EduSelf course sites with my own content. I am also compiling lists of courses from catalogs around the USA. 
 
