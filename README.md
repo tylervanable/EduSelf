@@ -1,5 +1,5 @@
 # EduSelf
-To access progress, go to "site" directory. Go to 'courseplans' for prospective classes in the curriculum. Click on specific course folder for content.
+ To access progress, go to "site" directory. Go to 'courseplans' for prospective classes in the curriculum. Click on specific course folder for content.
 
 A public access curriculum database project! Inspired by Khan Academy, EduSelf runs as a collection of easily accessible, challenge-by-choice courses, meaning there is nothing assessed for a grade. Courses range from mathematics to English; philosophy to neuroscience; music to the Japanese language. 
 
