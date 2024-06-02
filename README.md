@@ -1,5 +1,6 @@
 # EduSelf
- To access progress, go to "site" directory. Go to 'courseplans' for prospective classes in the curriculum. Click on specific course folder for content.
+
+To access progress, go to "site" directory. Go to 'courseplans' for prospective classes in the curriculum. Click on specific course folder for content.
 
 A public access curriculum database project! Inspired by Khan Academy, EduSelf runs as a collection of easily accessible, challenge-by-choice courses, meaning there is nothing assessed for a grade. Courses range from mathematics to English; philosophy to neuroscience; music to the Japanese language. 
 
@@ -8,6 +9,7 @@ Eventually I'd like to compile EduSelf as database of these courses, their sylla
 Until I become more proficient with databases and data structures, I am compiling my own EduSelf course sites with my own content. I am also compiling lists of courses from catalogs around the USA. 
 
 ## Content    
+
 Courses have weekly themes and daily topics. Content includes [1] learning objectives for what you will learn, [2] vocabulary vital to understanding, [3] YouTube videos and hyperlinks, and [4] summaries of daily learning objectives. Projects are introduced in the beginning of the week and reinforced throughout it. 
 
 Assignments are for practicing skills and applying understanding of concepts. Assignments might include journals, Google/ChatGPT investigations, and essays. (As I get better with HTML, CSS, JavaScript, databases, etc., I hope to include assignments that can be automatically graded...!) Enjoy the courses and their content as you wish at your own pace! 
